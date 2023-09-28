@@ -1,0 +1,15 @@
+double? h;
+double? w;
+const String cocaCola = 'Assets/Images/cocacola.png';
+const String dashBoard ='Assets/Images/dashboard.png';
+const String fb = 'Assets/Images/fb.png';
+const String google = 'Assets/Images/google.png';
+const String illustration1 = 'Assets/Images/illustration1.png';
+const String illustration2 = 'Assets/Images/illustration2.png';
+const String illustration3 = 'Assets/Images/illustration3.png';
+const String illustrator = 'Assets/Images/Illustrator.png';
+const String linkedin = 'Assets/Images/linkedin.png';
+const String logo = 'Assets/Images/logo (2).png';
+const String samsung = 'Assets/Images/samsung.png';
+const String vector = 'Assets/Images/vector.png';
+const String vector1 = 'Assets/Images/vector1.png';
