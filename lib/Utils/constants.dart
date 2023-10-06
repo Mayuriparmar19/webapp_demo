@@ -1,5 +1,5 @@
 double? h;
-double? w;
+doublew;
 const String cocaCola = 'Assets/Images/cocacola.png';
 const String dashBoard ='Assets/Images/dashboard.png';
 const String fb = 'Assets/Images/fb.png';
